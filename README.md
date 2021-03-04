@@ -1,4 +1,4 @@
-### Kaaaaaaaaaang 🌱
+### Sori Kang 🌱
 ##### Hi, there! 👋
 
 ![Kaaaaaaaaaang's github stats](https://github-readme-stats.vercel.app/api?username=Kaaaaaaaaaang&show_icons=true)
